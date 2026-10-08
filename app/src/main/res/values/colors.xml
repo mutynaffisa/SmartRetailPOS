@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Background & Surface Pastel -->
+    <color name="bg_app_pastel">#FAF7F5</color>
+    <color name="surface_card">#FFFFFF</color>
+    <color name="stroke_border">#F1EFEA</color>
+
+    <!-- Accent Brand Colors -->
+    <color name="pastel_purple">#9333EA</color>
+    <color name="pastel_purple_light">#F3E8FF</color>
+
+    <!-- Lavender Colors (Mencegah error unresolved) -->
+    <color name="pastel_lavender_bg">#F3E8FF</color>
+    <color name="pastel_lavender_text">#6B21A8</color>
+
+    <color name="pastel_teal">#0D9488</color>
+    <color name="pastel_teal_light">#CCFBF1</color>
+
+    <color name="pastel_mint_bg">#E6F4EA</color>
+    <color name="pastel_mint_text">#137333</color>
+
+    <color name="pastel_coral_bg">#FCE8E6</color>
+    <color name="pastel_coral_text">#C5221F</color>
+
+    <!-- Typography -->
+    <color name="text_primary">#0F172A</color>
+    <color name="text_secondary">#64748B</color>
+    <color name="text_muted">#94A3B8</color>
+</resources>
